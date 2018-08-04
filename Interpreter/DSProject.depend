@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1495593611 source:c:\users\aliaa abbas\desktop\dsproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Headers.h"
+
+1495585364 c:\users\aliaa abbas\desktop\dsproject\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1495718376 source:c:\users\aliaa abbas\desktop\programming\dsproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"Headers.h"
+
+1495710981 c:\users\aliaa abbas\desktop\programming\dsproject\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
